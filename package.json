@@ -2,10 +2,12 @@
   "name": "hono",
   "type": "module",
   "dependencies": {
+    "@prisma/client": "^6.16.1",
     "hono": "^4.9.7"
   },
   "devDependencies": {
     "@types/node": "^20.11.17",
+    "prisma": "^6.16.1",
     "tsx": "^4.7.1",
     "typescript": "^5.8.3"
   }
